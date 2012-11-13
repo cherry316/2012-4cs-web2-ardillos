@@ -1,0 +1,7 @@
+<?php
+public class addition(){
+	$a = 1;
+	$b = 5;
+	$sum = $a + $b;
+}
+?>
